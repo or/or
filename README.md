@@ -1,5 +1,11 @@
 ## Hallo!
 
+I like programming and puzzles.
+
+ My balanced at the
+[Bank of San Serriffe](https://www-cs-faculty.stanford.edu/~knuth/boss.html) is
+`0x$33.00`. :dollar:
+
 <div align="center">
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api?username=or&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
