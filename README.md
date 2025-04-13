@@ -15,9 +15,15 @@ I like programming and puzzles.
 
 <div align="center">
   <img align="center" alt="Clojure" height="60" width="80"
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg">
-  <img align="center" alt="ClojureScript" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojurescript/clojurescript-original.svg" />
-  <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg"/>
+  <img align="center" alt="ClojureScript" height="60" width="80"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojurescript/clojurescript-original.svg"/>
+  <img align="center" alt="Python" height="60" width="80"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Python" height="60" width="80"
+       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg"/>
+  <img align="center" alt="Python" height="60" width="80"
+       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg"/>
 </div>
 
 <div align="center">
