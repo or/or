@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/heraldry/heraldicon">
-    <img align="center" alt="Clojure" width="80"
+    <img align="center" alt="Heraldicon" width="80"
          src="https://cdn.heraldicon.org/img/heraldicon-logo.png">
   </a>
 </div>
