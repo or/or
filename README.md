@@ -2,7 +2,7 @@
 
 I like programming and puzzles.
 
-[`0x$33.00`](https://www-cs-faculty.stanford.edu/~knuth/boss.html)
+[`0x$47.e0`](https://www-cs-faculty.stanford.edu/~knuth/boss.html)
 
 <div align="center">
   <img height="180em"
